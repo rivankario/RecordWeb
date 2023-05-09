@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fakultas Teknologi Informasi</name>
+   <tag></tag>
+   <elementGuidId>85e1d1e1-1438-4aaa-b69d-1e9ff74c3834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-798 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-798']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c82d8693-f4b2-49a6-9845-f3974d0812ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ukdw.ac.id/akademik/fakultas-teknologi-informasi/</value>
+      <webElementGuid>48066466-6efb-4aaf-932b-b536af0e78f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fakultas Teknologi Informasi</value>
+      <webElementGuid>f59d863b-b8fe-4e2f-bf94-565c0ca576fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-menu&quot;)/li[@id=&quot;menu-item-745&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@id=&quot;menu-item-798&quot;]/a[1]</value>
+      <webElementGuid>1dbf97dc-8ff9-470d-9d9c-52a2c4908030</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-798']/a</value>
+      <webElementGuid>06ac5d3f-66c0-4be0-a019-b79c75bd552d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fakultas Teknologi Informasi')]</value>
+      <webElementGuid>824cf367-d5a2-4123-a263-2180a75fb319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magister Manajemen'])[1]/following::a[1]</value>
+      <webElementGuid>6a82e4a5-91d6-4898-a030-cd2310d933c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akuntansi'])[1]/following::a[3]</value>
+      <webElementGuid>718cad96-495c-4fe7-b9b6-fccfb1a8a80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informatika'])[1]/preceding::a[2]</value>
+      <webElementGuid>faecc240-807d-439d-81e7-47d4581dd5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Informasi'])[1]/preceding::a[3]</value>
+      <webElementGuid>e4d750c1-1a34-4316-b914-b1a54217372e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fakultas Teknologi Informasi']/parent::*</value>
+      <webElementGuid>1ac912f9-b39e-422c-9bee-d26efe863556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ukdw.ac.id/akademik/fakultas-teknologi-informasi/')]</value>
+      <webElementGuid>0f5d2a58-d8c8-4185-8fe3-4008d5e9f21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[5]/a</value>
+      <webElementGuid>80f44879-57ae-4c7c-80f3-c9d967d5230e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ukdw.ac.id/akademik/fakultas-teknologi-informasi/' and (text() = 'Fakultas Teknologi Informasi' or . = 'Fakultas Teknologi Informasi')]</value>
+      <webElementGuid>8f3c3a26-89f7-4826-a251-128208b9a639</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
